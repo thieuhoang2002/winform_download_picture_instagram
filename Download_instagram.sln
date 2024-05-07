@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Download_instagram", "Download_instagram\Download_instagram.csproj", "{6A4B6AD7-68D5-4B92-954A-4E28B9D6E10C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A4B6AD7-68D5-4B92-954A-4E28B9D6E10C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4B6AD7-68D5-4B92-954A-4E28B9D6E10C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4B6AD7-68D5-4B92-954A-4E28B9D6E10C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4B6AD7-68D5-4B92-954A-4E28B9D6E10C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {614FF735-5C98-4082-814D-F125F614922E}
+	EndGlobalSection
+EndGlobal

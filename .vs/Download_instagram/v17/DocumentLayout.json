@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thhoang\\Desktop\\winform_download_picture_instagram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4B6AD7-68D5-4B92-954A-4E28B9D6E10C}|Download_instagram\\Download_instagram.csproj|c:\\users\\thhoang\\desktop\\winform_download_picture_instagram\\download_instagram\\form_download.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A4B6AD7-68D5-4B92-954A-4E28B9D6E10C}|Download_instagram\\Download_instagram.csproj|solutionrelative:download_instagram\\form_download.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4B6AD7-68D5-4B92-954A-4E28B9D6E10C}|Download_instagram\\Download_instagram.csproj|C:\\Users\\thhoang\\Desktop\\winform_download_picture_instagram\\download_instagram\\form_download.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A4B6AD7-68D5-4B92-954A-4E28B9D6E10C}|Download_instagram\\Download_instagram.csproj|solutionrelative:download_instagram\\form_download.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_Download.cs",
+              "DocumentMoniker": "C:\\Users\\thhoang\\Desktop\\winform_download_picture_instagram\\Download_instagram\\Form_Download.cs",
+              "RelativeDocumentMoniker": "Download_instagram\\Form_Download.cs",
+              "ToolTip": "C:\\Users\\thhoang\\Desktop\\winform_download_picture_instagram\\Download_instagram\\Form_Download.cs",
+              "RelativeToolTip": "Download_instagram\\Form_Download.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowD8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:07:12.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_Download.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thhoang\\Desktop\\winform_download_picture_instagram\\Download_instagram\\Form_Download.cs",
+              "RelativeDocumentMoniker": "Download_instagram\\Form_Download.cs",
+              "ToolTip": "C:\\Users\\thhoang\\source\\repos\\Download_instagram\\Download_instagram\\Form_Download.cs [Design]",
+              "RelativeToolTip": "..\\..\\source\\repos\\Download_instagram\\Download_instagram\\Form_Download.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:52:55.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
